@@ -1,0 +1,19 @@
+{
+  "books": [
+    {
+      "id": 0,
+      "title": "test",
+      "author": "test",
+      "category": "test",
+      "price": 20.0,
+      "sales_count": 0,
+      "views_count": 1,
+      "no_order": false,
+      "to_order": false
+    }
+  ],
+  "users": [],
+  "comments": [],
+  "taboo_words": [],
+  "financial_logs": []
+}
