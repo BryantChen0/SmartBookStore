@@ -1,7 +1,7 @@
-from DBManagerBase import JsonManagerBase
+from JsonManagerBase import JsonManagerBase
 
 '''
-This file implement the manager for book database.
+This file implement the CRUD manager for book database.
 '''
 class BookManager(JsonManagerBase):
     def __init__(self, path="database.json"):
